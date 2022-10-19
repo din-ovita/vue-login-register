@@ -40,7 +40,7 @@
           </ul>
           <div class="log">
             <a href="/" @click="out"
-              ><i class="fas fa-sign-out-alt">LOG OUT</i></a
+              ><i class="fas fa-sign-out-alt">LOGOUT</i></a
             >
           </div>
         </div>
@@ -72,6 +72,6 @@ export default {
   color: black;
 }
 .log {
-  text-align: right;
+  margin-left: 60%;
 }
 </style>

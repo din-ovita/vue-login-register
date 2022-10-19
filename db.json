@@ -9,8 +9,101 @@
     {
       "id": 2,
       "username": "dinda",
-      "password": "296",
+      "password": "26",
       "role": "user"
+    },
+    {
+      "username": "admin",
+      "password": "666",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "putra",
+      "password": "456",
+      "role": "siswa",
+      "id": 4
+    }
+  ],
+  "jakartas": [
+    {
+      "kota": "Jakarta Pusat",
+      "bupati": "Dhany Sukma",
+      "luas": "52,38",
+      "jumlah": "1.056.896 ",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "kota": "Jakarta Timur",
+      "bupati": "Muhammad Anwar",
+      "luas": "188,03 ",
+      "jumlah": "3.264.699 "
+    },
+    {
+      "kota": "Jakarta Selatan",
+      "bupati": "Munjirin",
+      "luas": "141,37 ",
+      "jumlah": "1.191.213 ",
+      "id": 2
+    },
+    {
+      "kota": "Jakarta Barat",
+      "bupati": "Yani Wahyu Purwoko",
+      "luas": "129,54 ",
+      "jumlah": "2.586.330 ",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "kota": "Jakarta Utara",
+      "bupati": "Ali Maulana Hakim",
+      "luas": "146,66 ",
+      "jumlah": "1.864.471  "
+    }
+  ],
+  "jatengs": [
+    {
+      "kota": "Semarang",
+      "bupati": "Ir. Hevearita",
+      "luas": "373,8 ",
+      "jumlah": "1.688.133 ",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "kota": "Demak",
+      "bupati": "Eisti'anah",
+      "luas": "897,4 ",
+      "jumlah": "1.158.772 "
+    },
+    {
+      "id": 2,
+      "kota": "Temanggung",
+      "bupati": "Muhammad Al Khadziq",
+      "luas": "837,71 ",
+      "jumlah": "790.174 "
+    },
+    {
+      "id": 3,
+      "kota": "Kebumen",
+      "bupati": "Arif Sugiyanto",
+      "luas": "1.211,74 ",
+      "jumlah": "1.350.438 "
+    },
+    {
+      "id": 4,
+      "kota": "Pekalongan",
+      "bupati": "Fadia Arafiq",
+      "luas": "45,25 ",
+      "jumlah": "307.097 "
+    },
+    {
+      "id": 5,
+      "kota": "Surakarta",
+      "bupati": "Gibran Rakabuming Raka",
+      "luas": "44,02 ",
+      "jumlah": "409.214 "
     }
   ]
 }

@@ -61,7 +61,7 @@ export default {
       const payload = {
         username: this.username,
         password: this.password,
-        role: "siswa",
+        role: "user",
       };
       const registrasi = await axios.post(
         "http://localhost:3000/akuns",
